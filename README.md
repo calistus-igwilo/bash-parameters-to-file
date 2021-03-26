@@ -10,7 +10,7 @@ parm1 parm2 parm3 are the parameters. <br />
 
 ## Behaviour
 <p>
-**Parameter Check:** the program checks whether parameters are supplied with the command. If no parameter was supplied, it raises and error, shows the correct usage format and exit. </p>
+1. **Parameter Check** the program checks whether parameters are supplied with the command. If no parameter was supplied, it raises and error, shows the correct usage format and exit. </p>
 <p>
 **Read filename:** it prompts the user to supply the filename that the parameters will be written to. </p>
 <p>
