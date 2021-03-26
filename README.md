@@ -10,8 +10,8 @@ parm1 parm2 parm3 are the parameters. <br />
 
 ## Behaviour
 <p>
-1. **Parameter Check** the program checks whether parameters are supplied with the command. If no parameter was supplied, it raises and error, shows the correct usage format and exit. </p>
+Parameter Check: the program checks whether parameters are supplied with the command. If no parameter was supplied, it raises and error, shows the correct usage format and exit. </p>
 <p>
-**Read filename:** it prompts the user to supply the filename that the parameters will be written to. </p>
+Read filename: it prompts the user to supply the filename that the parameters will be written to. </p>
 <p>
-**Check if file exists:** it checks if the file supplied exists in the program directory. If it does exist, it prompts the user for a new file name until a unique file name is supplied. But if file does not exist, it will create the file and write the parameters to it</p>
+Check if file exists: it checks if the file supplied exists in the program directory. If it does exist, it prompts the user for a new file name until a unique file name is supplied. But if file does not exist, it will create the file and write the parameters to it</p>
